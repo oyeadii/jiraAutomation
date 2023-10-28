@@ -1,0 +1,7 @@
+Flask==2.2.2
+Flask-APScheduler==1.12.4
+mysql-connector-python==8.0.32
+python-dotenv==1.0.0
+pandas==1.5.3
+playwright==1.29.1
+# playwright install chromium
